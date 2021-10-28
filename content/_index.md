@@ -1,17 +1,20 @@
 ---
-title: 🪴 Quartz test bed
+title: 🪴 The Prep Coach Digital Garden
 ---
-Host your second brain and [digital garden](https://jzhao.xyz/posts/digital-gardening) for free. Quartz features
+## Demonstration of an online knowledge garden
+
+
+
 1. Extremely fast full-text search by pressing `/`
 2. Beautiful, out-of-the-box website creation and deployment
 3. Display for backlinks of each note
 4. A customizable graph view
 5. Endlessly powerful page and theme customization
 
-## Get Started
-> 📚 [Setup your own digital garden using Quartz](notes/setup.md)
+## Map of content
+1. Anabolic compounds [Anabolics](Anabolics.md)
+2. Weekly Q&A [[QandAs]]
 
-Not convinced yet? Look at some [community digital gardens](moc/showcase) built with Quartz, or read about [why I made Quartz](notes/philosophy.md) to begin with!
 
 ## Troubleshooting
 - 🚧 [Troubleshooting and FAQ](notes/troubleshooting.md)
