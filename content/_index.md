@@ -16,5 +16,5 @@ Below you'll find a few example pages and stuff :-) Enjoy poking around!
 1. Anabolic compounds [Anabolics](moc/Anabolics.md)
 2. Weekly Q&A [QandAs](QandAs.md)
 3. Random Alex Thoughts [RandomThoughts](RandomThoughts.md)
-4. 
+4. etc. 
 
