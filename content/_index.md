@@ -7,12 +7,12 @@ title: 🪴 The Prep Coach Digital Garden
 ### Search function
 Try the search function by pressing `/` ! 
 
-### Content
+## Content
 You can put everything you like here, even linkt to images and stuff :-) 
 
 
 
-## Map of content
+### Map of content
 1. Anabolic compounds [Anabolics](moc/Anabolics.md)
 2. Weekly Q&A [QandAs](QandAs.md)
 3. Random Alex Thoughts [RandomThoughts](RandomThoughts.md)
