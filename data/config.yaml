@@ -1,12 +1,8 @@
-name: Jacky Zhao
+name: Han Sijmons
 enableToc: true
 description:
-  Here is the page description. This is an example Quartz site that details installation,
-  setup, customization, and troubleshooting for Quartz itself.
+  Here is the page description - a test digital garden
 page_title:
-  Quartz Example Page
+  Quartz test garden
 links:
-  - link_name: Twitter
-    link: https://twitter.com/_jzhao
-  - link_name: Github
-    link: https://github.com/jackyzha0
+
