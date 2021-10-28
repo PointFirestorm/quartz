@@ -3,6 +3,10 @@ title: 🪴 The Prep Coach Digital Garden
 ---
 ## Demonstration of an online knowledge garden
 
+Try the search function by pressing `/` ! 
+You can put everything you like here, even linkt to images and stuff :-) 
+
+![google-domains](notes/images/google-domains.png)
 
 
 1. Extremely fast full-text search by pressing `/`
@@ -13,11 +17,7 @@ title: 🪴 The Prep Coach Digital Garden
 
 ## Map of content
 1. Anabolic compounds [Anabolics](moc/Anabolics.md)
-2. Weekly Q&A [[QandAs]]
-3. Random Alex Thoughts [[RandomThoughts]]
+2. Weekly Q&A [QandAs](QandAs.md)
+3. Random Alex Thoughts [RandomThoughts](RandomThoughts.md)
 4. 
 
-
-## Troubleshooting
-- 🚧 [Troubleshooting and FAQ](notes/troubleshooting.md)
-- 🐛 [Submit an Issue](https://github.com/jackyzha0/quartz/issues)

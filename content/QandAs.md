@@ -9,4 +9,4 @@ title: "Q&A's"
 2. Question 2
 	1. Answer 2
 3. Question 3
-	1. Answer 3 - See also [Testosterone](Testosterone)
+	1. Answer 3 - See also [Testosterone](Testosterone.md)
