@@ -8,9 +8,9 @@ title: 🪴 The Prep Coach Digital Garden
 Try the search function by pressing `/` ! 
 
 ## Content
-You can put everything you like here, even linkt to images and stuff :-) 
-
-
+You can put everything you like here, even linkt to images, video's, etc. 
+Use it like a dynamic part of your website that is super easy to edit using MarkDown.
+Below you'll find a few example pages and stuff :-) Enjoy poking around!
 
 ### Map of content
 1. Anabolic compounds [Anabolics](moc/Anabolics.md)
