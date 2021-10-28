@@ -2,6 +2,7 @@
 title: 🪴 The Prep Coach Digital Garden
 ---
 ## Demonstration of an online knowledge garden
+![logo](files/images/logo.png)
 
 ### Search function
 Try the search function by pressing `/` ! 
@@ -9,7 +10,6 @@ Try the search function by pressing `/` !
 ### Content
 You can put everything you like here, even linkt to images and stuff :-) 
 
-![google-domains](notes/images/google-domains.png)
 
 
 ## Map of content
