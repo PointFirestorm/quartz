@@ -12,8 +12,10 @@ title: 🪴 The Prep Coach Digital Garden
 5. Endlessly powerful page and theme customization
 
 ## Map of content
-1. Anabolic compounds [Anabolics](Anabolics.md)
+1. Anabolic compounds [Anabolics](moc/Anabolics.md)
 2. Weekly Q&A [[QandAs]]
+3. Random Alex Thoughts [[RandomThoughts]]
+4. 
 
 
 ## Troubleshooting
