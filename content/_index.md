@@ -1,20 +1,27 @@
 ---
-title: 🪴 The Prep Coach Digital Garden
+title: 🪴 The Wizard's keep
 ---
-## Demonstration of an online knowledge garden
+
 ![logo](files/images/logo.png)
+# The wizard's keep 🧙🏰
+Welcome to the Wizard's keep - Alex's digital knowledge castle.
+
+You enter the castle via the main walkway, crossing the wide moat full of internet trolls screaming bro-myths at you. Finally out of the weather you shrug of your coat as a voice booms out from the shadows of the main torchlit hall.
+
+> Who dares enter my domain? One who seeks knowledge and truths? Be welcome weary traveling friend for you have found your destination. Take with you whatever your heart fancies, but make sure not to leave your humanity and compasion behind!
+
+> Be kind, be positive and spread it! That is how we'll all grow!
 
 ### Search function
-Try the search function by pressing `/` ! 
+Try the magical search function by pressing `/` ! 
 
-## Content
-You can put everything you like here, even linkt to images, video's, etc. 
-Use it like a dynamic part of your website that is super easy to edit using MarkDown.
-Below you'll find a few example pages and stuff :-) Enjoy poking around!
+### The grand staircase
+Reach every part of the castle, towers, libraries, corridors and even the dungeons. But beware, the stairs have a tendency to move!
 
-### Map of content
-1. Anabolic compounds [Anabolics](moc/Anabolics.md)
-2. Weekly Q&A [QandAs](QandAs.md)
-3. Random Alex Thoughts [RandomThoughts](RandomThoughts.md)
-4. etc. 
+#### Staircases
+1. The [sport and subject specific information](sport%20and%20subject%20specific%20information.md) staircase
+2. The [Compounds](Compounds.md) staircase
+3. The [Supplements](Supplements.md) staircase
+4. The [Training](Training.md) staircase
+5. The staircase down to the [Q&A's](QandAs.md) dungeon
 
