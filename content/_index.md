@@ -6,7 +6,7 @@ title: 🪴 The Wizard's keep
 # The wizard's keep 🧙🏰
 Welcome to the Wizard's keep - Alex's digital knowledge castle.
 
-You enter the castle via the main walkway, crossing the wide moat full of internet trolls screaming bro-myths at you. Finally out of the weather you shrug of your coat as a voice booms out from the shadows of the main torchlit hall.
+You enter the castle via the main walkway, crossing the wide moat full of internet trolls screaming bro-myths at you. Finally out of the weather you shrug of your coat as a voice booms out from the shadows of the torchlit hall.
 
 > Who dares enter my domain? One who seeks knowledge and truths? Be welcome weary traveling friend for you have found your destination. Take with you whatever your heart fancies, but make sure not to leave your humanity and compasion behind!
 
