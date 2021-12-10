@@ -2,7 +2,7 @@
 title: "Pregnancy, Gestation & Post partum"
 ---
 >Go back to [the Sport and subject specific information](sport%20and%20subject%20specific%20information.md) hallway
->Go back to [the castle entrerance](_index.md)
+>Go back to [the castle enterance](_index.md)
 
 # The Pregnancy, Gestation & Post partum corridor
 Close to the kitchens the corridor fills with the delicious smells of freshly baked goods, cinnamon, cardemon, butter, etc. The clean polished rosewood floors are inlaid with gold symbols representing male, female and everything in between. 

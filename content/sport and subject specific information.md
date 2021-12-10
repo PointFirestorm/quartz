@@ -1,7 +1,7 @@
 ---
 title: "Sport and subject specific information"
 ---
->Go back to [the castle entrerance](_index.md)
+>Go back to [the castle enterance](_index.md)
 
 Welcome to the first floor, sport and subject specific coridors branch from this main one.
 The coridor is brightly lit by stained glass windows set every few yards. There is a faint

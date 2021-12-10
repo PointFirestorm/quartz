@@ -1,7 +1,7 @@
 ---
 title: "Compounds corridor"
 ---
-Go back to [the castle entrerance](_index.md)
+Go back to [the castle enterance](_index.md)
 
 # Compounds corridor
 As you walk up the stairs you come to a corridor with an odd smell. Odors and colored clouds seem to drift and mingle in the air, sometimes fusing with a small crackle of anabolic potential and alchemical bliss. 
