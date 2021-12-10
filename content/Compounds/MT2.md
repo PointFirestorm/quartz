@@ -1,5 +1,6 @@
 ---
 title: "MT2"
+enableTOC: false
 ---
 > Go back to the [castle entrance]({{< ref "" >}} "Castle entrance")
 > Go back to the [Compounds](Compounds.md) corridor
