@@ -18,12 +18,11 @@ Try the magical search function by pressing `/` !
 ### The grand staircase
 Reach every part of the castle, towers, libraries, corridors and even the dungeons. But beware, the stairs have a tendency to move!
 
-#### Staircases
-1. The [sport and subject specific information](sport%20and%20subject%20specific%20information.md) staircase
-2. The [Compounds](Compounds.md) staircase
-3. The [Supplements](Supplements.md) staircase
-4. The [Training](Training.md) staircase
-5. The staircase down to the [Q&A's](QandAs.md) dungeon
+#### Staircases, hallways and doors
+1. Stairs leading to the [sport and subject specific information](sport%20and%20subject%20specific%20information.md) floor
+2. Hallway leading to the [Compounds](Compounds.md) kitchen
+3. Stairs leading to the [Supplements](Supplements.md) floor
+4. Door leading to the [Training](Training.md) grounds
+5. Hallway leading to the [Amphitheater](Amphitheater.md)
+6. The stairs down to the [Q&A's](QandAs.md) dungeon
 
-> Test Video: 
->{{< vimeo 630239121 >}}
