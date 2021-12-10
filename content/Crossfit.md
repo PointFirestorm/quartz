@@ -2,7 +2,7 @@
 title: "Crossfit"
 ---
 >Go back to [the Sport and subject specific information](sport%20and%20subject%20specific%20information.md) hallway
->Go back to [the castle enterance](_index.md)
+>Go back to the [castle entrance]({{< ref "" >}} "Castle entrance")
 
 # The CrossFit Corridor
 The hallway fills with the smell of ruber tiled floors, sweaty (often shirtless) high fiving men and woman, rusty barbells with bumper plates and some serious athletic potential.

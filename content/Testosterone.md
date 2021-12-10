@@ -2,7 +2,7 @@
 title: "Testosterone"
 ---
 >Go back to the [Compounds](Compounds.md) corridor
->Go back to [the castle enterance](_index.md)
+>Go back to the [castle entrance]({{< ref "" >}} "Castle entrance")
 
 ## Compound: Testosterone
 Form: Injectable

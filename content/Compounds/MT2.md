@@ -1,7 +1,7 @@
 ---
 title: "MT2"
 ---
-> Go back to the [Castle enterance](_index.md)
+> Go back to the [castle entrance]({{< ref "" >}} "Castle entrance")
 > Go back to the [Compounds](Compounds.md) corridor
 # Melanotan 2
 >Class: Peptide

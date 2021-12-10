@@ -1,7 +1,7 @@
 ---
 title: "Q and A - September 2021"
 ---
-Go back to [QandAs](QandAs.md) enterance.
+Go back to [QandAs](QandAs.md) entrance.
 
 Vimeo link: [September 2021 - Q&A's](https://vimeo.com/637969147)
 

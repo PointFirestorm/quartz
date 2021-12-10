@@ -2,7 +2,7 @@
 title: "Physique based Athletics"
 ---
 >Go back to the [sport and subject specific information](sport%20and%20subject%20specific%20information.md) corridor
->Go back to [the castle enterance](_index.md)
+>Go back to the [castle entrance]({{< ref "" >}} "Castle entrance")
 
 # Physique based athletics
 A corridor full of doors, each labeled with a neat plaque set above the door. Multiple mirrors are positioned so one can see oneself from any angle while walking this hallway!

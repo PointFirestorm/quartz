@@ -2,7 +2,7 @@
 title: "Post_partum_recovery"
 ---
 >Go back to the [Pregnancy, Gestation & Post partum](Pregnancy,%20Gestation%20&%20Post%20partum.md) corridor
->Go back to [the castle entrerance](_index.md)
+>Go back to the [castle entrance]({{< ref "" >}} "Castle entrance")
 
 ### Post partum recovery
 > #### Introduction

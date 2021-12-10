@@ -1,5 +1,5 @@
 ---
 title: "Supplements"
 ---
-Go back to [the castle enterance](_index.md)
+> Go back to the [castle entrance]({{< ref "" >}} "Castle entrance")
 

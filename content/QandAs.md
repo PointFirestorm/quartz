@@ -1,7 +1,7 @@
 ---
 title: "Q&A's"
 ---
-Go back up to [the castle enterance](_index.md)
+>Go back up to the [castle entrance]({{< ref "" >}} "Castle entrance")
 
 You decend into a dark hallway, lit by only a few torches casting an eerie blue-ish light. The shadows cast by these torches are darker than they should be, you swear you can see your shadow move just slightly out of the cornor of your eye, yet you remained stock still.
 
