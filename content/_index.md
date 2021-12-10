@@ -25,4 +25,5 @@ Reach every part of the castle, towers, libraries, corridors and even the dungeo
 4. The [Training](Training.md) staircase
 5. The staircase down to the [Q&A's](QandAs.md) dungeon
 
-{{< vimeo 630239121 >}}
+> Test Video: 
+>{{< vimeo 630239121 >}}
