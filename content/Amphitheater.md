@@ -11,7 +11,7 @@ The doors open with only a light touch and swing open soundlessly. Smells of pop
 An empty ticket booth displays a roster of currently running movies.
 
 ## Youtube / Vimeo / 
-{{< youtube 1ChYOzDI7ZI title="Leo & Longevity interview - Alex Kikel’s Origin Story + Contest Prep + Broderick Chavez">}}
+{{< youtube 1ChYOzDI7ZI >}}
 
 ## Instagram
-{{< vimeo 630239121 title="Sleep deprivation protocol">}}
+{{< vimeo 630239121 >}}
