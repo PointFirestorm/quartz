@@ -1,5 +1,6 @@
 ---
 title: 🪴 The Wizard's keep
+url: "_index"
 ---
 
 ![logo](files/images/logo.png)
