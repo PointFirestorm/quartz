@@ -1,5 +1,6 @@
 ---
 title: "{{title}}"
 ---
-Go back to [the castle entrerance](_index.md)
+>Go back to the [castle entrance]({{< ref "" >}} "Castle entrance")
+
 
