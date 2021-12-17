@@ -1,6 +1,9 @@
 const userPref = window.matchMedia('(prefers-color-scheme: light)').matches ? 'light' : 'dark'
 const currentTheme = localStorage.getItem('theme') ?? userPref
 
+# set theme to dark at start
+document.documentElement.setAttribute('saved-theme', 'dark');
+
 if (currentTheme) {
   document.documentElement.setAttribute('saved-theme', currentTheme);
 }
