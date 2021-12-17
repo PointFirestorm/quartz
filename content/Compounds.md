@@ -20,5 +20,5 @@ A new door in an old frame with a freshly applied coat of paint.
 ### Oral compounds Door
 A plain door with plenty of fingerprints around the doorhandle, the 
 door itself is dusty with some strange white powder.
-- [[Aldactone]]
+- [Aldactone](Aldactone.md)
 
