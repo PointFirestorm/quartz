@@ -1,4 +1,5 @@
 // Add your own CSS here!
+/*
 :root {
   --light: #faf8f8;
   --dark: #141021;
@@ -10,8 +11,9 @@
   --lightgray: #f0f0f0;
   --outlinegray: #dadada;
 }
+*/
 
-[saved-theme="dark"] {
+:root {
   --light: #1e1e21 !important;
   --dark: #fbfffe !important;
   --secondary: #5b778a !important;
